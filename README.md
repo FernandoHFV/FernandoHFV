@@ -1,8 +1,26 @@
-<h2 align="center">About me</h2>
+<h2 align="center">Olá, eu sou o Fernando!</h2>
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimendo de Sistemas<br><br>Cabo do Exército Brasileiro<br><br>Desempenho a função de Técnico de Infraestrutura.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas<br><br>Desenvolvedor Back-End em constante evolução!<br><br>Cabo do Exército Brasileiro<br><br>Desempenho a função de Técnico de Infraestrutura.</p>
+
+###
+
+<h2 align="center">Social</h2>
+
+###
+
+<div align="center">
+  <a href="fernandohenriquevitorino.camps@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/fernandohfv/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fernando-vitorino-a87ba5188/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
